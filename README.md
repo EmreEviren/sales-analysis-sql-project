@@ -44,3 +44,20 @@ Projede aşağıdaki analizler gerçekleştirilmiştir:
 
 - SQL Server
 - T-SQL
+
+
+
+
+## Project Screenshots
+
+### Category Based Top Products
+
+![Category Analysis](Ekran görüntüsü 2026-06-02 173949.png)
+
+### Most Profitable Products
+
+![Product Analysis](Ekran görüntüsü 2026-06-02 173819.png)
+
+### Customer Order Analysis
+
+![Customer Analysis](Ekran görüntüsü 2026-06-02 173736.png)
